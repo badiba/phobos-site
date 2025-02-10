@@ -5,7 +5,7 @@ description: "Work in progress"
 author: "Bahadir Coskun"
 baseurl: ""
 url: "https://badiba.github.io/phobos-site/"
-theme: jekyll-theme-minima
+theme: jekyll-theme-modernist
 
 # Minima theme settings
 minima:
