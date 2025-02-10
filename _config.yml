@@ -7,10 +7,6 @@ baseurl: ""
 url: "https://badiba.github.io/phobos-site/"
 theme: jekyll-theme-modernist
 
-# Minima theme settings
-minima:
-  skin: dark
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
