@@ -1,19 +1,15 @@
 # Jekyll Configuration
 
-title: "My Indie Game"
-description: "An amazing indie game in development!"
-author: "Your Name"
+title: "Phobos"
+description: "Work in progress"
+author: "Bahadir Coskun"
 baseurl: ""
-url: "https://username.github.io"
+url: "https://badiba.github.io/phobos-site/"
 theme: minima
 
 # Minima theme settings
 minima:
   skin: dark
-  social_links:
-    twitter: your_twitter
-    github: your_github
-    discord: your_discord
 
 plugins:
   - jekyll-feed
