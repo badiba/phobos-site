@@ -1,2 +1,20 @@
+# Jekyll Configuration
+
+title: "My Indie Game"
+description: "An amazing indie game in development!"
+author: "Your Name"
+baseurl: ""
+url: "https://username.github.io"
+theme: minima
+
+# Minima theme settings
 minima:
   skin: dark
+  social_links:
+    twitter: your_twitter
+    github: your_github
+    discord: your_discord
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
